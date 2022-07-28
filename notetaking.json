@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "notetaking-257022",
+    "private_key_id": "d178b6efe18ffde551958d52e081cd11175633ac",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIZwzdgbGuqBGl\nQyyG8asfSN64fWYm28UOvDMuV+N/WfGOzyqSBUH75hpdG3QnBD3IgFH6ZctV5wd7\nB0fjfYG0f2PZxFvJ8vHkuH9LiVCUsRte4duoyYPP9Fr4O4g1LN059yqznVYyM5t0\n7ZTgFOdYazx+SpqU8ArNKy54xVaulyHivwVCoC/XW5Jm1ly+j1mqFhIBu+egkohb\nK84iE6FKjYun0jbU8OeJkn461T/f4BxZHQH64uPkgUY5GlLr1Prf9z/IM8Cbeitl\nOPOiRYy7Nz6CkvfSwYo/wQRfcDBLGOgScX9ZBRI5YZRa8RS3phVInI4bLQQLxFHC\nRJKBTR25AgMBAAECggEAA+k28A+65vyys3X3JX8L5uVmK1WPK8z4MIxtt0bR0sdv\nlmjmnMjre74G37BMeQJ1LjeK4gcgi8GhfL4sofzuDha6XSKe4/cQz3TmTxQT9YLr\nVNO1lLqyDtnm+Jc41kjU3G+9bpnwd7RYIVUNpb3isfAN0y0jjSqOG2jvVD4NrgSO\nNenV9MDLQ+1l3HnYi8kj1vlNCSXy24guN9S0QOsvqXj3NNXPOSG32+LO9X0lEInO\nqhfLpRXot9jSr9uc+hdzb80C/Gwf8ryfexz1z1tftXveFLZAnV6kgAhVOhBt2dkL\n0BUlE1718xQGzwSFZqcBF0iQ9ewEtmX5xc69nFuUAQKBgQDnrzfXhWDKaWSt4Npb\nj1FN5fuiYhc+NKQ+grc7iIZ6GTY2Ed7PhDP3SeqJo65nhuggTD9Qd+X9WtZJtcEm\nmwreXstOvlNx7gwBrLT7uE3izCzY8xD12MOySjZbPP0bXqqYxIlQCUe2/HLOYTZr\nJSZ3ETK4tjPGHTN7VaXWeLn7OQKBgQDdb12SgAzAwbJ7RDEKqmbAr0JD5k0xO0kC\nYy3minOd9Cr2wGF6V44aj5XFscB0VTD9Ei2bt+sgO0xn3FubqV+FvIdBaiEVdd9o\nbCrqCifjaDhR1Et/81W9AMioQSRv8HRh5KIZMOiGqgXQX/Fr465OS+XhtNcWnipS\nw8kVe9O2gQKBgDqaPnS8XwQz7mxw4KqiML2Ue7bSOvDYHedV5wUe/mzp7aV1lbdF\nyGM3hiS0i0vSeuqYfrda7IjOLj/MwoOCWhhvP9u2FqNNxCm0Rr8ZGlJQtNNXgCW/\nY5i4XtFrNtZydpJXvCfLgSFO77c2La6iYf1iE0NXivcEsd3zhxQdy2U5AoGARlfB\nXu+knXsqyrO/7IZzO9Sw9Ubs0K3npIWDKFBlKBFPsLEuhiHYN6HTT0kHPS1u8YXb\nzTLg041i2T+MLmfgu2hHg0VGmz2lqdNq0oxFXZ1W/s+06EGRxAfCtohzHchCAHMT\n93Ks+1J5pFdGJyLd1WuQ7GF5TmsSQNaHQ3bhq4ECgYEAsad8pV8ktVy5TLLsW/N1\nv65jRiq+r9GDmaPiA+G0KkGGv5nHP+G1/dOobSg8GZketcdyI+a9smntEPlgB8V5\nGh1/wolatAhFLKODt1V8Gjv1zlHeAVd7FOiMci8TJS5I1F7GKtdkTkm1FO9crRaL\n5bWoyjkMb12Z2ZrpvQsiBfc=\n-----END PRIVATE KEY-----\n",
+    "client_email": "park-st-parking@notetaking-257022.iam.gserviceaccount.com",
+    "client_id": "118036556052240205099",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/park-st-parking%40notetaking-257022.iam.gserviceaccount.com"
+  }
